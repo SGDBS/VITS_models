@@ -1,14 +1,13 @@
-# VITS_models
+## VITS_Models
+This repository contains custom-trained VITS character models.
 
-This repository is used to save VITS character models trained by myself.
+The training code is based on https://github.com/Plachtaa/VITS-fast-fine-tuning/tree/main
 
-Training Code is base on https://github.com/Plachtaa/VITS-fast-fine-tuning/tree/main
+Character models in this repository are derived from the VITS pre-trained models.
 
-Character models in this reposito are based on VITS pre-trained models
+## How to Use
+Visit the Release Page to download the models. You only need to download the zip files corresponding to the characters you are interested in.
 
-# How to Use
-Download models on the Release Page.You only need download the zip files corresponding to the characters that you want.
+Both the .pth file and the config file are included in the zip file.
 
-The pth file and config file are both in the zip file
-
-You can also find introduction about how to use model to inference on https://github.com/Plachtaa/VITS-fast-fine-tuning/tree/main
+For instructions on how to use the model for inference, refer to https://github.com/Plachtaa/VITS-fast-fine-tuning/tree/main
